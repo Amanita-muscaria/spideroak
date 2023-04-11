@@ -1,0 +1,3 @@
+[workspace]
+
+members = ["sp_encrypt", "sp_decrypt", "sp_lib"]
